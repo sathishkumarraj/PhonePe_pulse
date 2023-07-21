@@ -1,80 +1,66 @@
-![PhonePe Pulse](C:\Users\sathi\Downloads\phonepe_logo.png)
-# PhonePe Pulse
+<h1 align="center">Hi 👋, I'm Tirumal </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirumal024&label=Profile%20views&color=0e75b6&style=flat" alt="tirumal024" /> </p>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-PhonePe Pulse is a data visualization and exploration tool that provides insights into transaction and user data. It allows users to analyze and visualize various aspects of PhonePe's transaction and user statistics.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sathishkumarraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tirumal-s/" height="30" width="40" /></a>
+<a href="https://instagram.com/rajendsathish_sk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.war_n_ing" height="30" width="40" /></a>
+</p>
 
-## Overview
-
-- 1_Data_Extraction.py: This file contains code for data extraction and preprocessing. It imports functions from the extraction module and performs data extraction operations from various sources.
-
-- 2_Geo_visualization.py: This file includes code for visualizing geographical data. It uses Streamlit, PIL, pandas, and Plotly to create interactive maps and charts based on transaction and user data.
-
-- 3_Data_Exploration.py: This file focuses on data exploration. It imports functions from the streamlit_extras.dataframe_explorer module and provides options for exploring and visualizing aggregated transaction and user data.
-
-- 4_Data_Visualization.py: This file contains code for data visualization. It uses Plotly and Streamlit to create interactive charts and visualizations based on transaction and user data. It provides options to explore transaction and user data by year, quarter, and various categories.
-
-- git_clone.py: This file provides a script to clone the project repository from a Git repository.
-
-- extraction.py: This module provides functions for data extraction and preprocessing. It includes functions like aggregated_transcation_state(), aggregated_user_state(), map_transcation_state(), map_user_state(), etc., which are used in the data extraction process.
-
-- migrate_to_SQL.py: This file contains code to migrate the extracted data to a SQL database for storage and further analysis.
-
-- transactions.py: This module contains functions related to transaction data processing. It includes functions like total_transactions(), top_state_transactions_amount(), top_state_transactions_count(), etc., which are used to compute and analyze transaction-related metrics.
-
-- users.py: This file contains code for user-related data processing. It includes functions for analyzing and visualizing user data, such as users_top_state(), users_top_district(), etc.
-
-- visualization.py: This module contains functions for data visualization. It includes functions like user_brand_count(), user_brand_count_state(), top_user_state(), top_user_district(), etc., which are used to create various charts and visualizations based on user and transaction data.
-
-- convert_to_csv.py: This file contains code to convert the extracted data to CSV format for easier sharing and analysis.
-
-- phonepe_logo.png: This is an image file representing the logo of PhonePe. It is used as the page icon and in the header of the Streamlit application.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-## Installation
+# PhonePe Pulse Data Visualization 2018-2022
 
-1. **Clone the repository:**
-```bash
-git clone https://github.com/iampraveens/PhonePe-Pulse.git
-```
+This project is a data visualization tool for PhonePe's pulse data from 2018 to 2022. It allows users to explore and analyze various metrics related to PhonePe's business performance.
 
-2. **Install the required dependencies:**
-```bash
-pip install -r requirements.txt
-```
+**HOME** 
+![image](https://github.com/Tirumal024/Phonepe/assets/131777752/3773ecbc-b2e3-4e47-b985-8f8f86e52d0c)
 
-## Usage
+**TOP CHARTS**
 
-3. **Navigate to the project directory:**
-```bash
-cd phonepe-pulse
-```
-4. **Run the desired script:**
-```bash
-streamlit run 1_Overview.py
-```
-5. **The application will open in your browser:**
-Use the provided options and select the desired visualizations to explore and analyze PhonePe's transaction and user data.
+TRANSACTION
+![image](https://github.com/Tirumal024/Phonepe/assets/131777752/9a7f4cd7-a212-45f5-a0ff-f17b165a8cd3)
 
-## Data
-The data used in this project includes transaction and user data obtained from PhonePe. The data is stored in CSV format and is used for generating visualizations and conducting data exploration. The transactions.py and extraction.py modules provide the necessary functions to process and analyze the data.
+USERS
+![image](https://github.com/Tirumal024/Phonepe/assets/131777752/4eebeb0f-7a2e-488e-b98c-686dcf2c64ba)
 
-## Technologies Used
-- streamlit: Streamlit is used as the web application framework for creating interactive data visualizations.
-- plotly: Plotly is utilized for generating interactive and customizable visualizations.
-- pandas: Pandas library is used for data manipulation and analysis.
-- PIL: PIL (Python Imaging Library) is used for loading and manipulating images in the application.
-- mysql: mysql is used to migrate and store the data.
+**VISUVALIZATION**
 
-## Contributing
+TRANSACTION
+![image](https://github.com/Tirumal024/Phonepe/assets/131777752/4adb90aa-d7b7-4f2a-8a16-7343d084df5b)
 
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please create an issue or submit a pull request.
+Top Payment Type
+![image](https://github.com/Tirumal024/Phonepe/assets/131777752/e31d996b-9314-49a1-b1c0-23f23beb9c61)
 
-## License
+State To Explore
+![image](https://github.com/Tirumal024/Phonepe/assets/131777752/ddc251fd-5c55-40f2-a167-3669bd9ba2f5)
 
-- This project is `Un-Licensed`
-- Feel free to use, modify, and distribute this project as needed.
+USERS
+![image](https://github.com/Tirumal024/Phonepe/assets/131777752/a34e76a5-2505-4f87-bf8e-b73e7a4d50e2)
 
-## Acknowledgements
+Users State
+![image](https://github.com/Tirumal024/Phonepe/assets/131777752/c52eda69-1a3d-44e0-a14b-4be3e6940e0b)
 
-- Special thanks to the creators and maintainers of the libraries and tools used in this project.
-- If you have any questions or need assistance, please don't hesitate to [contact me](https://www.linkedin.com/in/sathishkumarraj/).
+# Installation and Cloning
+
+Clone the repository to your local machine using git clone https://github.com/PhonePe/pulse.git Install the required Python packages.
+
+**Data extraction:**
+
+Clone the Github using scripting to fetch the data from the Phonepe pulse Github repository and store it in a suitable format such as JSON. Use the below syntax to clone the phonepe github repository into your local drive. from git.repo.base import Repo Repo.clone_from("GitHub Clone URL","Path to get the cloded files")
+Refer my PhonePe_cloning and extraction.ipynb file
+
+# Dashboard creation:
+
+To create colourful and insightful dashboard I've used Plotly libraries in Python to create an interactive and visually appealing dashboard. Plotly's built-in Pie, Bar, Geo map functions are used to display the data on a charts and map and Streamlit is used to create a user-friendly interface with multiple dropdown options for users to select different facts and figures to display.
+
+# Data retrieval:
+
+Finally if needed Using the "mysql-connector-python" library to connect to the MySQL database and fetch the data into a Pandas dataframe.
+
+# EXPLORE
+
+Run python Phonepe_Pulse.py to start the application(streamlit run Phonepe_Pulse.py). Access the application in your web browser by navigating to http://localhost:8501 Select the desired date range and metrics to visualize. Explore the data using the interactive charts provided by Plotly Express.
