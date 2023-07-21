@@ -90,4 +90,4 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 ## Acknowledgements
 
 - Special thanks to the creators and maintainers of the libraries and tools used in this project.
-- If you have any questions or need assistance, please don't hesitate to [contact me](https://https://www.linkedin.com/in/sathishkumarraj/).
+- If you have any questions or need assistance, please don't hesitate to [contact me](https://www.linkedin.com/in/sathishkumarraj/).
