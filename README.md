@@ -23,7 +23,7 @@ PhonePe Pulse is a data visualization and exploration tool that provides insight
 
 # Home
 
-![image](https://github.com/sathishkumarraj/PhonePe_pulse/assets/116692780/14a91290-399c-4af1-94de-de429b6ae59d)
+![image](https://github.com/sathishkumarraj/PhonePe_pulse/assets/116692780/91b9515d-fa65-40b5-8acc-ec96dcb8c715)
 
 # Top Charts
 
@@ -39,11 +39,11 @@ PhonePe Pulse is a data visualization and exploration tool that provides insight
 
 ## Transaction
 
-![image](https://github.com/sathishkumarraj/PhonePe_pulse/assets/116692780/6d196217-8ed4-4dd6-94ec-074ef8424b40)
+![image](https://github.com/sathishkumarraj/PhonePe_pulse/assets/116692780/de3b7e73-6dfa-4910-923c-a9f916672cbc)
 
 ## Users
 
-![image](https://github.com/sathishkumarraj/PhonePe_pulse/assets/116692780/42e10ac1-85ef-423c-aeb7-b0d84f43633d)
+![image](https://github.com/sathishkumarraj/PhonePe_pulse/assets/116692780/b17c0627-9808-4250-8bb6-529bf5a7d641)
 
 ## Installation
 
