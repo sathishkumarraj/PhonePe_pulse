@@ -3,10 +3,6 @@ Pillow~=9.5.0
 pandas~=2.0.3
 mysql-connector-python~=8.1.0
 plotly~=5.15.0
-----------------------|
-                      |
-#Requrments-----------|
-
 git.repo.base
 os
 json
