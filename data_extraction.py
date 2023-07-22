@@ -265,8 +265,6 @@ def save_all_dataframes_as_csv():
     save_dataframe_as_csv(map_usr_df, folder_path, "map_usr_df")
     save_dataframe_as_csv(top_trans_df, folder_path, "top_trans_df")
     save_dataframe_as_csv(top_user_df, folder_path, "top_user_df")
-    # save_dataframe_as_csv(top_trans_pin_df, folder_path, "top_trans_pin_df")
-    # save_dataframe_as_csv(top_usr_pin_df, folder_path, "top_usr_pin_df")
 
 
 save_all_dataframes_as_csv()
