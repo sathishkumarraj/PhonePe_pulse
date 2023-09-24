@@ -4,7 +4,7 @@ from data_extraction import *
 mydb = sql.connect(
                    host="127.0.0.1",
                    user="root",
-                   password="Sathishsk$123",
+                   password="Enter Your password",
                    port='3306',
                    database="skk"
                   )
